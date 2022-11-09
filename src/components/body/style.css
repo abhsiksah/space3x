@@ -1,0 +1,99 @@
+.body_container {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table_container {
+    width: 85rem;
+    height: auto;
+
+}
+
+.modal_container {
+
+    padding: 10px;
+}
+
+.top {
+
+    display: flex;
+
+
+}
+
+.left-top img {
+
+    width: 70px;
+    height: 70px;
+    margin-right: 1rem;
+}
+
+.mission-name {
+    font-weight: 600;
+    font-size: large;
+}
+
+.rocket_name {
+    font-weight: 100;
+    font-size: small;
+}
+
+.middle-top {
+    display: flex;
+    flex-direction: column;
+}
+
+.icon-container {
+    display: flex;
+    gap: 5px;
+}
+
+.icon-container a {
+
+    font-weight: 900;
+    font-size: 10px;
+}
+
+.middle {
+    margin-top: 10px;
+}
+
+.ant-divider-horizontal {
+    margin: 0px !important;
+}
+
+.bottom {
+
+    margin-top: 25px;
+}
+
+.bottom_elements_container {
+    display: flex;
+    gap: 90px
+}
+
+.bottom-elements1 {
+    padding: 10px;
+}
+
+.bottom-elements2 {
+    padding: 10px;
+}
+
+
+.title-bottom-elem {
+    font-size: 14px;
+    font-weight: 600;
+    width: 100px;
+
+}
+
+.value-bottom-elem {
+    font-size: 14px;
+    font-weight: 200;
+
+
+
+}
