@@ -4,3 +4,17 @@
     align-items: center;
     box-shadow: 1px 1px 10px 1px rgb(192, 190, 190);
 }
+
+@media only screen and (max-width: 600px) {
+
+    .logo-container {
+        width: 610px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 1px 1px 10px 1px rgb(192, 190, 190);
+    }
+
+
+    /*Big smartphones [426px -> 600px]*/
+}
