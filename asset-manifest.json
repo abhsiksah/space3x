@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/space3x/static/css/main.db9ca371.css",
+    "main.js": "/space3x/static/js/main.471615dc.js",
+    "static/media/spacex.svg": "/space3x/static/media/spacex.190c9327293d92faed6dd9cdb225f9e0.svg",
+    "index.html": "/space3x/index.html",
+    "main.db9ca371.css.map": "/space3x/static/css/main.db9ca371.css.map",
+    "main.471615dc.js.map": "/space3x/static/js/main.471615dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db9ca371.css",
+    "static/js/main.471615dc.js"
+  ]
+}
